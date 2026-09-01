@@ -68,12 +68,3 @@ strs = ["dog","racecar","car"]
 
 Where `n` is the number of strings and `m` is the length of the shortest string.
 
-## Language
-
-Java
-
-## LeetCode
-
-Problem Number: 14
-
-Problem Name: Longest Common Prefix
